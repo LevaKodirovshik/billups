@@ -4,7 +4,7 @@ This is the solution to the Rock Paper Scissors Lizard Spock coding challenge.
 
 ## Running from container
 
-The containerized application can be built and run with the following command inside the `./RPSLS/` directory,
+The containerized application can be built and run with the following command,
 it will expose the application on `http://localhost:80` and remove the container after exiting
 
 ```bash
@@ -15,7 +15,7 @@ Use `http://localhost` as the 'root URL' for https://codechallenge.boohma.com/
 
 ## Running from command line
 
-Assuming the `dotnet` cli is installed, the solution can be run from the command line with the following command inside the `./RPSLS/` directory,
+Assuming the `dotnet` cli is installed, the solution can be run from the command line with the following command, 
 this will run the web app and expose the api on the default url `http://localhost:5272`
 
 ```bash
